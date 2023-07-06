@@ -83,7 +83,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    background: url(img/showcase.weeb.jpg) center center/cover;
+    background: url("showcase.weeb.jpg") center center/cover;
     background-color: rgba(0, 0, 0, 0.1);
     background-blend-mode: color;
 }
