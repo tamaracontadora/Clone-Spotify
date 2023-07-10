@@ -22,6 +22,8 @@ Ao concluir este projeto, sinto uma felicidade imensa. Acredito firmemente que a
 
 Estou empolgada com o que o futuro reserva e mal posso esperar para continuar desbravando novos horizontes!
 
+## App no ar: https://tamaracontadora.github.io/Clone-Spotify/
+
 ## 🎨 Tela Inicial
 
 <img src="./tela inicial.jpg" alt="tela">
